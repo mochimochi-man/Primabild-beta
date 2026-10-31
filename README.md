@@ -29,7 +29,7 @@ For detailed instructions, install the app and open the manual from Settings.
 
 ## License
 
-- Copyright in this app belongs to its creator, mochimochi-man (X: @Mochimochiman.EX).
+- Copyright in this app belongs to its creator, mochimochi-man (X: @MochimochimanEX).
 - You may freely copy and redistribute this app for noncommercial purposes only.
 - Modifications of any kind are prohibited.
 - The creator accepts no liability for any damage arising from the use of this app.
